@@ -1,6 +1,8 @@
 # File credits
 Authors:
+
 FCH823: Functional requirements, software development
+
 Wastelander121: Functional requirements, testing, research
 
 Special thanks:
